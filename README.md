@@ -30,7 +30,7 @@ A study planning responsive website which can...
 - keyword
 
 ### Content folder
-
+```
 Top level of project folder: 
 ├── .gitignore               # Git ignore file
 ├── README.md                # readme file for general information about the project
@@ -55,5 +55,6 @@ Firebase hosting files:
 ├── firestore.indexes.json
 ├── firestore.rules
 └── storage.rules
+```
 
 ![database-table](image.png)
