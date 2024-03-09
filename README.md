@@ -1,11 +1,11 @@
 ### Title
-Gnosis (TEMP)
+Gnosis
 
 ### Theme
 Equity on education
 
 ### Description
-A study planning responsive website which can...
+A study planning responsive website which can:
 - introduces online course resources 
 - make my curriculum
 - share my curriculum
